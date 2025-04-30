@@ -49,7 +49,6 @@ Thanks to **[Codebasics](https://www.codebasics.io/)** and mentors **Dhaval Pate
 
 ## 📸 Report Previews
 
-| Executive Overview | Sales Dashboard | Profitability |
 Home View |![Home](https://github.com/Codeblack09/Edge-360/blob/main/Screenshot%202025-04-30%20101724.png) |
 Finance View |![Finance](https://github.com/Codeblack09/Edge-360/blob/main/Screenshot%202025-04-30%20104219.png) |
 Sales View |![Sales](https://github.com/Codeblack09/Edge-360/blob/main/Screenshot%202025-04-30%20104234.png) |
