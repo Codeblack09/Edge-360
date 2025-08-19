@@ -40,7 +40,7 @@ A 360° view of core business operations—Finance, Marketing, Sales, Leadership
 ## 📦 File
 > This project’s `.pbix` file is large (>200MB).
 > You can check live dashboard on Power BI service:
-[🔗Edge360](https://app.powerbi.com/view?r=eyJrIjoiMjk2YjU5ZTUtNGJkNC00NWM3LTg0MGEtMjYwNWI5YjljYTVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[🔗Edge360](https://app.powerbi.com/view?r=eyJrIjoiMmYyNWMyMzItMTJhNy00N2NiLWE0ZDAtYjEzNTI5ZWYwNDkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
  
 ## 👏 Acknowledgements
 Thanks to **[Codebasics](https://www.codebasics.io/)** and mentors **Dhaval Patel** & **Hemanand Vadivel** for their guidance and project framework.
